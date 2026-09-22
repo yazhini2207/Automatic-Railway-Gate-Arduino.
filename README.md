@@ -27,7 +27,7 @@ To interface an HC-SR04 ultrasonic sensor with an Arduino UNO
 * TRIG| Digital Pin 9  
 * ECHO| Digital Pin 10
 
-![circuit](circuit..jpg
+![circuit](circuit..jpg)
 
 *SCHEMATIC DIAGRAM*  
 *![simulation](simulation..jpg)
