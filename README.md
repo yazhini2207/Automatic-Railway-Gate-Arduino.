@@ -27,10 +27,10 @@ To interface an HC-SR04 ultrasonic sensor with an Arduino UNO
 * TRIG| Digital Pin 9  
 * ECHO| Digital Pin 10
 
-![][image1]
+![circuit](circuit..jpg
 
 *SCHEMATIC DIAGRAM*  
-*![][image2]*
+*![simulation](simulation..jpg)
 
  *Working Principle*
 
@@ -104,7 +104,7 @@ The ultrasonic sensor can be used in:
  *Result*
 
 The HC-SR04 ultrasonic sensor was successfully interfaced with the Arduino UNO. The distance between the sensor and the object was measured and displayed in centimetres on the Serial Monitor.  
-![][image3]
+![result](Result.jpg)
 
  *Conclusion*
 
